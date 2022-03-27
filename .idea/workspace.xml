@@ -11,27 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d730adc8-ad2d-4a59-b63f-9041626e2a3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ishop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/params.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/App.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/Registry.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/TSingletone.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/libs/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/errors/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/errors/dev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/errors/prod.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/ErrorHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/init.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/App.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +70,7 @@
       <workItem from="1648370079888" duration="97000" />
       <workItem from="1648370205250" duration="147000" />
       <workItem from="1648370372263" duration="255000" />
-      <workItem from="1648370709704" duration="1918000" />
+      <workItem from="1648370709704" duration="4712000" />
     </task>
     <servers />
   </component>
@@ -106,9 +93,14 @@
       <screen x="0" y="25" width="1280" height="720" />
     </state>
     <state x="370" y="209" key="#Notifications/0.25.1280.720@0.25.1280.720" timestamp="1648370087433" />
-    <state x="460" y="312" key="NewPhpFileDialog" timestamp="1648376905122">
-      <screen x="0" y="25" width="1280" height="720" />
+    <state x="353" y="130" key="NewPhpClassDialog" timestamp="1648377445050">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="353" y="130" key="NewPhpClassDialog/0.0.1280.800@0.0.1280.800" timestamp="1648377445050" />
+    <state x="460" y="319" key="NewPhpFileDialog" timestamp="1648378456080">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="460" y="319" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1648378456080" />
     <state x="460" y="312" key="NewPhpFileDialog/0.25.1280.720@0.25.1280.720" timestamp="1648376905122" />
     <state x="149" y="25" width="982" height="720" key="SettingsEditor" timestamp="1648371190445">
       <screen x="0" y="25" width="1280" height="720" />
