@@ -10,9 +10,10 @@ abstract class Controller
 	public $controller;
 	public $model;
 	public $view;
+	public $layout;
 	public $prefix;
 	public $data = [];
-	public $meta = [];
+	public $meta = ['title' => '', 'desc' => '', 'keywords' => ''];
 
 	public function __construct($route)
 	{
@@ -33,5 +34,11 @@ abstract class Controller
 		$this->meta['title'] = $title;
 		$this->meta['desc'] = $desc;
 		$this->meta['keywords'] = $keywords;
+	}
+
+	public function getView()
+	{
+		$viewObject = new View($this->route, $this->layout, $this->view, $this->meta);
+		$viewObject->render($this->data);
 	}
 }
