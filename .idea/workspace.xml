@@ -11,13 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d730adc8-ad2d-4a59-b63f-9041626e2a3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/MainController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/Router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/PageController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/default.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/base/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/base/View.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/MainController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +56,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/controllers" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/controllers" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -73,7 +78,8 @@
       <workItem from="1648370079888" duration="97000" />
       <workItem from="1648370205250" duration="147000" />
       <workItem from="1648370372263" duration="255000" />
-      <workItem from="1648370709704" duration="9806000" />
+      <workItem from="1648370709704" duration="9957000" />
+      <workItem from="1648439754096" duration="2155000" />
     </task>
     <servers />
   </component>
@@ -90,6 +96,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -103,14 +110,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="477" y="179" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1648428387631" />
-    <state x="353" y="130" key="NewPhpClassDialog" timestamp="1648428186096">
+    <state x="353" y="130" key="NewPhpClassDialog" timestamp="1648441414234">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="353" y="130" key="NewPhpClassDialog/0.0.1280.800@0.0.1280.800" timestamp="1648428186096" />
-    <state x="460" y="319" key="NewPhpFileDialog" timestamp="1648381786574">
+    <state x="353" y="130" key="NewPhpClassDialog/0.0.1280.800@0.0.1280.800" timestamp="1648441414234" />
+    <state x="460" y="319" key="NewPhpFileDialog" timestamp="1648441888092">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="460" y="319" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1648381786574" />
+    <state x="460" y="319" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1648441888092" />
     <state x="460" y="312" key="NewPhpFileDialog/0.25.1280.720@0.25.1280.720" timestamp="1648376905122" />
     <state x="149" y="25" width="982" height="720" key="SettingsEditor" timestamp="1648371190445">
       <screen x="0" y="25" width="1280" height="720" />
