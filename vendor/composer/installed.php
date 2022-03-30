@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'fd5c65c781161a37d62e373c8d222bd9cdf83d61',
+        'reference' => '41739a2fa869c2244fdd69ee835fbe3f6700a9ad',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'fd5c65c781161a37d62e373c8d222bd9cdf83d61',
+            'reference' => '41739a2fa869c2244fdd69ee835fbe3f6700a9ad',
             'dev_requirement' => false,
         ),
         'gabordemooij/redbean' => array(
