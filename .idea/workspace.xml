@@ -11,12 +11,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d730adc8-ad2d-4a59-b63f-9041626e2a3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/config_db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/DB.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/base/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/AppModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/Cache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ishop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ishop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/MainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Main/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/default.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/default.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config_db.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config_db.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/DB.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/DB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/base/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/base/Model.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +54,7 @@
     <include_path>
       <path value="$PROJECT_DIR$/vendor/ishop/core" />
       <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/gabordemooij/redbean" />
     </include_path>
   </component>
   <component name="ProjectId" id="26xeeg7l8ne9fFh0S7DbWvXYeNL" />
@@ -79,7 +93,7 @@
       <workItem from="1648370372263" duration="255000" />
       <workItem from="1648370709704" duration="9957000" />
       <workItem from="1648439754096" duration="5617000" />
-      <workItem from="1648646545484" duration="1916000" />
+      <workItem from="1648646545484" duration="5180000" />
     </task>
     <servers />
   </component>
@@ -110,10 +124,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="477" y="179" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1648428387631" />
-    <state x="353" y="130" key="NewPhpClassDialog" timestamp="1648648713384">
+    <state x="353" y="130" key="NewPhpClassDialog" timestamp="1648653329361">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="353" y="130" key="NewPhpClassDialog/0.0.1280.800@0.0.1280.800" timestamp="1648648713384" />
+    <state x="353" y="130" key="NewPhpClassDialog/0.0.1280.800@0.0.1280.800" timestamp="1648653329361" />
     <state x="460" y="319" key="NewPhpFileDialog" timestamp="1648648236658">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
