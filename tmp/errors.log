@@ -458,3 +458,13 @@
 		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
 		 Строка: 40 
 ======================
+[22-03-30 13:41:37]
+		 Текст ошибки: Контроллер app\controllers\VieController не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 46 
+======================
+[22-03-30 13:42:16]
+		 Текст ошибки: Контроллер app\controllers\VieController не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 48 
+======================
