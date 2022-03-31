@@ -11,10 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d730adc8-ad2d-4a59-b63f-9041626e2a3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ishop2.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/MainController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Main/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +93,7 @@
       <workItem from="1648370709704" duration="9957000" />
       <workItem from="1648439754096" duration="5617000" />
       <workItem from="1648646545484" duration="10443000" />
-      <workItem from="1648702317718" duration="808000" />
+      <workItem from="1648702317718" duration="1071000" />
     </task>
     <servers />
   </component>
@@ -127,6 +124,10 @@
       <screen x="0" y="25" width="1280" height="720" />
     </state>
     <state x="370" y="209" key="#Notifications/0.25.1280.720@0.25.1280.720" timestamp="1648370087433" />
+    <state x="314" y="47" key="#PHP" timestamp="1648703343654">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="314" y="47" key="#PHP/0.0.1280.800@0.0.1280.800" timestamp="1648703343654" />
     <state x="240" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648702451483">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
