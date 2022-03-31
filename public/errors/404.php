@@ -1,89 +1,66 @@
-<style>
-	@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+<!--A Design by W3layouts
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Free 404 White for Iphone, Android & Smartphone Mobile Website Template | Home :: w3layouts</title>
+    <style type="text/css">
+        body{
+            font-family:Arial, Helvetica, sans-serif;
+        }
+        .wrap{
+            width:1000px;
+            margin:0 auto;
+        }
+        .logo{
+            width:430px;
+            position:absolute;
+            top:25%;
+            left:35%;
+        }
+        p a{
+            color:#eee;
+            font-size:13px;
+            margin-left:30px;
+            padding:5px;
+            background:#FF3366;
+            text-decoration:none;
+            -webkit-border-radius:.3em;
+            -moz-border-radius:.3em;
+            border-radius:.3em;
+        }
+        p a:hover{
+            color: #fff;
+        }
+        .footer{
+            position:absolute;
+            bottom:10px;
+            right:10px;
+            font-size:12px;
+            color:#aaa;
+        }
+        .footer a{
+            color:#666;
+            text-decoration:none;
+        }
 
-	* {
-		padding: 0;
-		margin: 0;
-		box-sizing: border-box;
-		font-family: 'Press Start 2P';
-		color: #FFFFFF;
-		text-align: center;
-	}
-
-	body {
-		background-color: #000000;
-		background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='42' height='58' viewBox='0 0 42 58'%3E%3Cg fill='%23dddcdd' fill-opacity='0.23'%3E%3Cpath fill-rule='evenodd' d='M12 18h12v18h6v4H18V22h-6v-4zm-6-2v-4H0V0h36v6h6v36h-6v4h6v12H6v-6H0V16h6zM34 2H2v8h24v24h8V2zM6 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zM2 50h32v-8H10V18H2v32zm28-6a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-8 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm0-8a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm0-8a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm0-8a2 2 0 1 0 0 4 2 2 0 0 0 0-4z'/%3E%3C/g%3E%3C/svg%3E");
-	}
-
-	section.notFound {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		margin: 0 5%;
-		height: 100vh;
-	}
-
-	section.notFound h1 {
-		color: red;
-		font-size: 100px;
-	}
-
-	section.notFound h2 {
-		font-size: 50px;
-	}
-
-	section.notFound h1, h2, h3 {
-		margin-bottom: 40px;
-	}
-
-	div.text {
-		height: 50vh;
-	}
-
-	div.text a {
-		text-decoration: none;
-		margin-right: 20px;
-	}
-
-	div.text a:hover {
-		color: red;
-		text-decoration: underline;
-	}
-
-	@media only screen and (max-width: 768px) {
-		section.notFound {
-			flex-direction: column;
-			justify-content: space-around;
-		}
-		section.notFound div.img img {
-			width: 70vw;
-			height: auto;
-		}
-		section.notFound h1 {
-			font-size: 50px;
-		}
-		section.notFound h2 {
-			font-size: 25px;
-		}
-		div.text a:active {
-			color: red;
-			text-decoration: underline;
-		}
-	}
-</style>
+    </style>
+</head>
 <body>
-<section class="notFound">
-	<div class="img">
-		<img src="https://assets.codepen.io/5647096/backToTheHomepage.png" alt="Back to the Homepage"/>
-		<img src="https://assets.codepen.io/5647096/Delorean.png" alt="El Delorean, El Doc y Marti McFly"/>
-	</div>
-	<div class="text">
-		<h1>404</h1>
-		<h2>PAGE NOT FOUND</h2>
-		<h3>BACK TO HOME?</h3>
-		<a href="<?=PATH ?>" class="yes">YES</a>
-		<a href="#">NO</a>
-	</div>
-</section>
+<div class="wrap">
+    <div class="logo">
+        <img src="/errors/images/404.png" alt=""  />
+        <p><a href="<?=PATH;?>">Go back to Home</a></p>
+    </div>
+</div>
+<div class="footer">
+    Design by - <a href="http://w3layouts.com">W3Layouts</a>
+</div>
 
 </body>
+</html>
