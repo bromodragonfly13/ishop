@@ -11,15 +11,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d730adc8-ad2d-4a59-b63f-9041626e2a3e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/widgets/menu/Menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/widgets/menu/menu_tpl/menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/menu/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/js/megamenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/js/vendor/jquery-1.12.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/js/vendor/modernizr-2.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/licence.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Main/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/layouts/watches.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/watches.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/Cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/Cache.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,15 +83,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/css" />
       <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/css" />
       <recent name="$PROJECT_DIR$/app/controllers" />
     </key>
   </component>
@@ -104,7 +112,7 @@
       <workItem from="1648646545484" duration="10443000" />
       <workItem from="1648702317718" duration="4173000" />
       <workItem from="1648713722203" duration="6567000" />
-      <workItem from="1648729065700" duration="10117000" />
+      <workItem from="1648729065700" duration="11124000" />
     </task>
     <servers />
   </component>

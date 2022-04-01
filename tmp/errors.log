@@ -320,3 +320,13 @@
 =================
 [2022-04-01 13:15:15] Текст ошибки: Нет соединения с БД | Файл: /Users/alexandrshaposhnik/Desktop/ishop2-6.loc/vendor/ishop/core/Db.php | Строка: 14
 =================
+[22-04-01 14:59:04]
+		 Текст ошибки: Контроллер app\controllers\CategoryController не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 47 
+======================
+[22-04-01 14:59:07]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
