@@ -465,3 +465,38 @@
 		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
 		 Строка: 47 
 ======================
+[22-04-02 09:18:03]
+		 Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHRE related_product.product_id = 5' at line 2 |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php |
+		 Строка: 206 
+======================
+[22-04-02 09:18:30]
+		 Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHRE related_product.product_id = 5' at line 2 |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php |
+		 Строка: 206 
+======================
+[22-04-02 09:18:31]
+		 Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHRE related_product.product_id = 5' at line 2 |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php |
+		 Строка: 206 
+======================
+[22-04-02 09:18:32]
+		 Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHRE related_product.product_id = 5' at line 2 |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php |
+		 Строка: 206 
+======================
+[22-04-02 09:18:33]
+		 Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHRE related_product.product_id = 5' at line 2 |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php |
+		 Строка: 206 
+======================
+[22-04-02 09:18:33]
+		 Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHRE related_product.product_id = 5' at line 2 |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php |
+		 Строка: 206 
+======================
+[22-04-02 09:18:33]
+		 Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHRE related_product.product_id = 5' at line 2 |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php |
+		 Строка: 206 
+======================
