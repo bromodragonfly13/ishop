@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d730adc8-ad2d-4a59-b63f-9041626e2a3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/models/Product.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ProductController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/Product/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Product/view.php" afterDir="false" />
@@ -101,7 +102,7 @@
       <workItem from="1648702317718" duration="4173000" />
       <workItem from="1648713722203" duration="6567000" />
       <workItem from="1648729065700" duration="16011000" />
-      <workItem from="1648890566469" duration="3360000" />
+      <workItem from="1648890566469" duration="6865000" />
     </task>
     <servers />
   </component>
@@ -148,10 +149,11 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="228" height="457" key="HiddenNamespacesPopup/0.0.1280.800@0.0.1280.800" timestamp="1648702406574" />
-    <state x="353" y="130" key="NewPhpClassDialog" timestamp="1648826103614">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="353" y="142" key="NewPhpClassDialog" timestamp="1648901295314">
+      <screen x="0" y="25" width="1280" height="720" />
     </state>
     <state x="353" y="130" key="NewPhpClassDialog/0.0.1280.800@0.0.1280.800" timestamp="1648826103614" />
+    <state x="353" y="142" key="NewPhpClassDialog/0.25.1280.720@0.25.1280.720" timestamp="1648901295314" />
     <state x="460" y="319" key="NewPhpFileDialog" timestamp="1648826343811">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
