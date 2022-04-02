@@ -595,3 +595,8 @@
 		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/app/models/Product.php |
 		 Строка: 27 
 ======================
+[22-04-02 15:03:40]
+		 Текст ошибки: Контроллер app\controllers\CategoryController не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 47 
+======================
