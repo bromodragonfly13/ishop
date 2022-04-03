@@ -174,10 +174,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </script>
 <!--footer-end-->
 
-<!-- Button trigger modal -->
-<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-	Launch demo modal
-</button>
 
 <!-- Modal -->
 <div class="modal fade" id="cart" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -188,7 +184,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<h4 class="modal-title" id="myModalLabel">Корзина</h4>
 			</div>
 			<div class="modal-body">
-				...
 			</div>
 			<div class="modal-footer">
 				<button type="button" class="btn btn-default" data-dismiss="modal">Продолжить покупки</button>
