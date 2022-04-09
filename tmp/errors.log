@@ -670,3 +670,178 @@
 		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
 		 Строка: 51 
 ======================
+[22-04-03 14:09:41]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-03 14:09:41]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-03 14:09:41]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 20:18:03]
+		 Текст ошибки: Нет соеденения с БД mysql:host=localhost;dbname=ishop2 root root |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/DB.php |
+		 Строка: 18 
+======================
+[22-04-09 20:18:03]
+		 Текст ошибки: Нет соеденения с БД mysql:host=localhost;dbname=ishop2 root root |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/DB.php |
+		 Строка: 18 
+======================
+[22-04-09 20:19:05]
+		 Текст ошибки: Нет соеденения с БД mysql:host=localhost;dbname=ishop2 root root |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/DB.php |
+		 Строка: 18 
+======================
+[22-04-09 21:13:59]
+		 Текст ошибки: Контроллер app\controllers\SearchController не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 47 
+======================
+[22-04-09 21:17:26]
+		 Текст ошибки: Контроллер app\controllers\SearchController не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 47 
+======================
+[22-04-09 21:18:20]
+		 Текст ошибки: Контроллер app\controllers\SearchController не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 47 
+======================
+[22-04-09 21:18:22]
+		 Текст ошибки: Контроллер app\controllers\SearchController не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 47 
+======================
+[22-04-09 21:29:01]
+		 Текст ошибки: Не найдена вьюшка /Users/alexandrshaposhnik/Desktop/ishop/app/views//Search/typeahead.php |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/base/View.php |
+		 Строка: 46 
+======================
+[22-04-09 21:29:02]
+		 Текст ошибки: Не найдена вьюшка /Users/alexandrshaposhnik/Desktop/ishop/app/views//Search/typeahead.php |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/base/View.php |
+		 Строка: 46 
+======================
+[22-04-09 21:29:04]
+		 Текст ошибки: Не найдена вьюшка /Users/alexandrshaposhnik/Desktop/ishop/app/views//Search/typeahead.php |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/base/View.php |
+		 Строка: 46 
+======================
+[22-04-09 21:29:08]
+		 Текст ошибки: Метод app\controllers\SearchController::indexAction не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 43 
+======================
+[22-04-09 21:51:33]
+		 Текст ошибки: Метод app\controllers\SearchController::indexAction не найден |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 43 
+======================
+[22-04-09 22:29:08]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:29:09]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:29:09]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:29:09]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:29:09]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:29:09]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:30:36]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:30:37]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:30:37]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:30:37]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:30:37]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:30:37]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:33:59]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:34:00]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:34:00]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:35:25]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:43:35]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:44:38]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:45:32]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
+[22-04-09 22:58:51]
+		 Текст ошибки: Страница не найдена |
+		 Файл: /Users/alexandrshaposhnik/Desktop/ishop/vendor/ishop/core/Router.php |
+		 Строка: 51 
+======================
